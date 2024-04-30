@@ -1,4 +1,4 @@
-# Pizza_Sales_Project-(SQL & Power_BI)
+# Pizza_Sales_Project using (SQL & Power_BI)
 Objective ->
 Developed an interactive dashboard using 
  SQL database and Microsoft Power BI.
